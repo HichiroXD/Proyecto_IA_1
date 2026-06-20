@@ -1,0 +1,9 @@
+Coloca aquí los tres archivos CSV descargados desde Kaggle:
+
+- games.csv
+- t-games-categories.csv
+- t-games-tags.csv
+
+Fuente: https://www.kaggle.com/datasets/terencicp/steam-games-december-2023
+
+Los archivos CSV no se incluyen en el repositorio por su tamaño (25 MB en total).

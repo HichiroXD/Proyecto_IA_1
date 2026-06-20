@@ -1,0 +1,16 @@
+name: steam-ia
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas=2.2
+  - numpy=1.26
+  - scikit-learn=1.4
+  - matplotlib=3.8
+  - seaborn=0.13
+  - jupyter=1.0
+  - ipykernel=6.29
+  - pip
+  - pip:
+      - imbalanced-learn==0.12.3
